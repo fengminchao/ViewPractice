@@ -17,6 +17,10 @@
         </activity>
 
         <activity android:name=".pie.PieActivity"/>
+
+        <activity android:name=".loadingview.LoadingActivity"/>
+
+        <activity android:name=".progressbar.ProgressActivity"/>
     </application>
 
 </manifest>
